@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo $PATH
+source activate CarND-Traffic-Sign-Classifier-Project
+jupyter notebook --no-browser
